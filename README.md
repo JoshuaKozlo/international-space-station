@@ -1,6 +1,6 @@
 # International Space Station (ISS)
 
-Command-line app for getting the ISS location, passover time at a earth location and the number of people in space. Pulls data from [http://api.open-notify.org](http://api.open-notify.org)
+Command-line app for getting the ISS location, passover time at a earth location and the number of people in space. Pulls data from [http://api.open-notify.org](http://api.open-notify.org) and generates a passover time at a observer location using Skyfield.
 
 ## Quick Start
 
