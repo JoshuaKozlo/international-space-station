@@ -24,6 +24,12 @@ python -m venv env
 source env/Scripts/activate
 ```
 
+Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
 ## Running app
 
 Location
